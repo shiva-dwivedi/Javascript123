@@ -22,7 +22,7 @@
 // let num2 = parseInt(prompt("enter 2nd number"))
 // console.log(num1+num2);
 
-// Area of vircle
+// Area of circle
 // let r = parseInt(prompt("enter radius"))
 // console.log("area of circle" + 22/7*r*r);
 
